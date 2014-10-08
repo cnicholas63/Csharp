@@ -1,0 +1,5 @@
+C:\Users\Chris\Source\Repos\csharp\Student\Students2\bin\Debug\Students2.exe.config
+C:\Users\Chris\Source\Repos\csharp\Student\Students2\bin\Debug\Students2.exe
+C:\Users\Chris\Source\Repos\csharp\Student\Students2\bin\Debug\Students2.pdb
+C:\Users\Chris\Source\Repos\csharp\Student\Students2\obj\Debug\Students2.exe
+C:\Users\Chris\Source\Repos\csharp\Student\Students2\obj\Debug\Students2.pdb

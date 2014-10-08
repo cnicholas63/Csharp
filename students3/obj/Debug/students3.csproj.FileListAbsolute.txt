@@ -1,0 +1,6 @@
+C:\Users\Chris\Source\Repos\csharp\Student\students3\bin\Debug\students3.exe.config
+C:\Users\Chris\Source\Repos\csharp\Student\students3\bin\Debug\students3.exe
+C:\Users\Chris\Source\Repos\csharp\Student\students3\bin\Debug\students3.pdb
+C:\Users\Chris\Source\Repos\csharp\Student\students3\obj\Debug\students3.exe
+C:\Users\Chris\Source\Repos\csharp\Student\students3\obj\Debug\students3.pdb
+C:\Users\Chris\Source\Repos\csharp\Student\students3\obj\Debug\students3.csprojResolveAssemblyReference.cache
