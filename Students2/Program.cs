@@ -43,9 +43,9 @@ namespace Students2
         {
             foreach(student_data student in students ) {
                 Console.WriteLine(student.forename + " " + student.surname);
-                Console.WriteLine(student.surname);
                 Console.WriteLine(student.id_number);
                 Console.WriteLine(student.averageGrade);
+                Console.WriteLine("");
 
 
             }
