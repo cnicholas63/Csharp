@@ -16,22 +16,22 @@ namespace Students2
             public float averageGrade;
         }
         // Notice that a reference to the struct is being passed in
-        static void populateStruct(out student_data student, string fname, string surname, int id_number)
+        static void populateStruct(out student_data student, string fname, string surname, int id_number, float grade)
         {
             student.forename = fname;
             student.surname = surname;
             student.id_number = id_number;
-            student.averageGrade = 0.0f;
+            student.averageGrade = grade;
         }
 
         static void Main(string[] args)
         {
             student_data[] students = new student_data[4];
 
-            populateStruct(out students[0], "Mark", "Anderson", 1);
-            populateStruct(out students[1], "Jon", "Smith", 2);
-            populateStruct(out students[2], "Tom", "Jones", 3);
-            populateStruct(out students[3], "Ewan", "Evans", 4);
+            populateStruct(out students[0], "Mark", "Anderson", 1, 75.5f);
+            populateStruct(out students[1], "John", "Smith", 2, 64.0f);
+            populateStruct(out students[2], "Tom", "Jones", 3, 80.0f);
+            populateStruct(out students[3], "Ewan", "Evans", 4, 62.0f);
 
             printAllStudents(students);
 
@@ -42,16 +42,11 @@ namespace Students2
         static void printAllStudents(student_data[] students)
         {
             foreach(student_data student in students ) {
-                Console.WriteLine(student.forename + " " + student.surname);
-                Console.WriteLine(student.id_number);
-                Console.WriteLine(student.averageGrade);
+                Console.WriteLine("Name:\t\t" +student.forename + " " + student.surname);
+                Console.WriteLine("ID:\t\t" +student.id_number);
+                Console.WriteLine("Ave Grade:\t" + student.averageGrade);
                 Console.WriteLine("");
-
-
             }
-
-
         }
-
     }
 }

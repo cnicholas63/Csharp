@@ -1,0 +1,6 @@
+C:\Users\Chris\Source\Repos\Csharp\week2\students4\bin\Debug\students4.exe.config
+C:\Users\Chris\Source\Repos\Csharp\week2\students4\bin\Debug\students4.exe
+C:\Users\Chris\Source\Repos\Csharp\week2\students4\bin\Debug\students4.pdb
+C:\Users\Chris\Source\Repos\Csharp\week2\students4\obj\Debug\students4.exe
+C:\Users\Chris\Source\Repos\Csharp\week2\students4\obj\Debug\students4.pdb
+C:\Users\Chris\Source\Repos\Csharp\week2\students4\obj\Debug\students4.csprojResolveAssemblyReference.cache
